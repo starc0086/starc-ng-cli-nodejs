@@ -1,0 +1,20 @@
+{
+  "name": "starc-ng-cli-nodejs",
+  "version": "0.0.1",
+  "description": "It is simply create an angular app with friendly tips, just for myself.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "sngc": "./bin/pfc-main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cstarx",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "shelljs": "^0.8.5"
+  }
+}
